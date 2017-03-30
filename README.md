@@ -1,5 +1,5 @@
 ## Status Report
- Daniel Birnstiel
+ Daniel Birnstiel Frankufortu no Yakuza no Bossu
 * 152 titles
 * 81,812,871 words
 * 410,782 logical units
